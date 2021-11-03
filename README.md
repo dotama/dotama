@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: To be or not to be.
 - ⚡ Fun fact: My major is about physics...
 
-![snake gif](https://github.com/dotama/dotama/blob/output/github-contribution-grid-snake.gif)
+![snake svg](https://github.com/dotama/dotama/blob/output/github-contribution-grid-snake.svg)
 <!--
 [![Dotama's GitHub stats](https://github-readme-stats.vercel.app/api?username=dotama&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
